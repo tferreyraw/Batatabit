@@ -399,10 +399,13 @@ main{
 
 .plans-container--slider{
     display: flex;
-    height: 316px;
+    height: 370px;
     overflow-x: scroll;
+    overflow-y: auto;
     overscroll-behavior-x: contain;
+    overscroll-behavior-y: contain;
     scroll-snap-type: x proximity;
+    scroll-snap-type: y proximity;
 }
 
 .recomended{
@@ -477,6 +480,9 @@ main{
 }
 .warm-black{
     background-color: var(--warm-black);
+}
+.gold{
+    background-color: gold;
 }
 /*finalizado el cambio de color de las demas tarjetas*/
 
