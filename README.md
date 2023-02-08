@@ -1,4 +1,4 @@
-# [Batatabit](https://tferreyraw.github.io/batata.bit/)
+# [Batatabit](https://tferreyraw.github.io/Batatabit/)
 
 Web desarrollada para el curso de Responsive Design : Mobile First otorgado por Platzi
 
@@ -16,5 +16,5 @@ Habilidades a mostrar en el proyecto:
 - Conocimientos sobre Flexbox
 - Conocimientos sobre MediaQueries
 
-[Link a la WEB](https://tferreyraw.github.io/batata.bit/)
+[Link a la WEB](https://tferreyraw.github.io/Batatabit/)
 
